@@ -1,4 +1,4 @@
-# Gestion Matriculas
+# Gestión Matriculas
 Sistema Escolar de Gestión de Matriculas
 
 Este Sistema esta pensando para gestionar matriculas escolares a diferentes colegios.
